@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dalmizyed
-- 👀 I’m interested in developing video games.
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in engineering
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
 
 <!---
