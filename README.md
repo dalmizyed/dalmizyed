@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dalmizyed
 - 👀 I’m interested in engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Godot
 - 😄 Pronouns: he/him
 
 <!---
