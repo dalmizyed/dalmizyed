@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dalmizyed
-- 👀 I’m interested in engineering
-- 🌱 I’m currently learning Java and Godot
-- 😄 Pronouns: he/him
+- University of Wisconsin-Madison
+- Mechanical Engineering B.S.
+- Class of 2029
 
 <!---
 dalmizyed/dalmizyed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
