@@ -6,4 +6,7 @@ I'm a member of **Wisconsin Autonomous Underwater Vehicles (WAUV)**, a team buil
 
 Recently, I also joined Wisconsin Aerospace (formerly SAE Aero) as a design engineer. I'm working on the structural optimization of the aircraft, including ownership of CAD, simulation, prototyping, testing, and iteration of designs.
 
+# My koi pond:
+My koi is fed when I am more active on my github. I don't often do a lot of programming projects though, so he may be a bit hungry. ;)
+
 <img src="koi/koi.gif" width="256" alt="My koi" />
