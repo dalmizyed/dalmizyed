@@ -5,3 +5,5 @@ I'm a sophomore at the **University of Wisconsin-Madison** pursuing a B.S. in *M
 I'm a member of **Wisconsin Autonomous Underwater Vehicles (WAUV)**, a team building a fully autonomous submarine capable of manipulating objects and firing torpedoes. As the club's <ins>Mechanisms Lead</ins>, I'm responsible for the prototyping, manufacturing, and test development for the AUV's external mechanisms, including the gripper mechanism, torpedo launchers, and tag droppers. We will be debuting as UW-Madison's *first* competitive marine robotics team at RoboSub 2027.
 
 Recently, I also joined Wisconsin Aerospace (formerly SAE Aero) as a design engineer. I'm working on the structural optimization of the aircraft, including ownership of CAD, simulation, prototyping, testing, and iteration of designs.
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
