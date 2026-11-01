@@ -1,5 +1,7 @@
 # Hi, I'm Kody Almizyed. 
-I'm currently an undergraduate student at the **University of Wisconsin-Madison** pursuing a double major in *Mechanical Engineering* and *Computer Science*. I'm interested in the field of <ins>mechatronics</ins>, specifically the bridge between computer science and mechanical engineering, and how it can apply to robotics and aerospace.
 
-Currently, I'm a member of Wisconsin Autonomous Underwater Vehicles (WAUV), where I'm designing and prototyping robotic mechanisms for our AUV. I'm also assisting with simulation of components, as well as manufacturing of the craft.
+I'm a sophomore at the **University of Wisconsin-Madison** pursuing a B.S. in *Mechanical Engineering.* I'm interested in the design and propulsion of <ins>rockets and aircraft</ins>, and the design of <ins>robots</ins> for non-humanoid tasks like space travel or underwater exploration.
 
+I'm a member of **Wisconsin Autonomous Underwater Vehicles (WAUV)**, a team building a fully autonomous submarine capable of manipulating objects and firing torpedoes. As the club's <ins>Mechanisms Lead</ins>, I'm responsible for the prototyping, manufacturing, and test development for the AUV's external mechanisms, including the gripper mechanism, torpedo launchers, and tag droppers. We will be debuting as UW-Madison's *first* competitive marine robotics team at RoboSub 2027.
+
+Recently, I also joined Wisconsin Aerospace (formerly SAE Aero) as a design engineer. I'm working on the structural optimization of the aircraft, including ownership of CAD, simulation, prototyping, testing, and iteration of designs.
