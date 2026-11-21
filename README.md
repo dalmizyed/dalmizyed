@@ -17,11 +17,6 @@ I own the design, optimization, and manufacture of the aircraft's structural mem
 - Design and propulsion of rockets and aircraft
 - Robots built for tasks humans can't easily do, such as space travel and underwater exploration
 
-## Skills
-
-**Engineering:** CAD, PTC Windchill, FMEA, strain gaging, rapid prototyping, 3D printing, Arduino, soldering
-**Languages:** Python, C++, Java, JavaScript, Lua, Bash, Git
-
 ## Get in touch
 
 - Portfolio: [dalmizyed.github.io](https://dalmizyed.github.io)
