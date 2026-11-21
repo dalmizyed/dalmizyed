@@ -1,12 +1,35 @@
-# Hi, I'm Kody Almizyed. 
+# Hi, I'm Kody Almizyed
 
-I'm a sophomore at the **University of Wisconsin-Madison** pursuing a B.S. in *Mechanical Engineering* and a Certificate in *Computer Science* I'm interested in the design and propulsion of <ins>rockets and aircraft</ins>, and the design of <ins>robots</ins> for non-humanoid tasks like space travel or underwater exploration.
+I'm a mechanical engineering sophomore at the **University of Wisconsin–Madison**, earning a B.S. in Mechanical Engineering and a Certificate in Computer Sciences (May 2029). I design, build, and test mechanical systems, and I'm working toward a career in the space industry. I'm looking for a **summer 2027 internship in aerospace**.
 
-I'm a member of **Wisconsin Autonomous Underwater Vehicles (WAUV)**, a team building a fully autonomous submarine capable of manipulating objects and firing torpedoes. As the club's <ins>Mechanisms Lead</ins>, I'm responsible for the prototyping, manufacturing, and test development for the AUV's external mechanisms, including the gripper mechanism, torpedo launchers, and tag droppers. We will be debuting as UW-Madison's *first* competitive marine robotics team at RoboSub 2027.
+## What I'm working on
 
-Recently, I also joined Wisconsin Aerospace (formerly SAE Aero) as a design engineer. I'm working on the structural optimization of the aircraft, including ownership of CAD, simulation, prototyping, testing, and iteration of designs.
+**Wisconsin Autonomous Underwater Vehicles (WAUV), Mechanisms Lead**
+I lead 15+ engineers through the design, manufacturing, integration, and testing of the mechanisms on our autonomous submarine, including the gripper, torpedo launchers, and tag droppers. I modeled and prototyped a tendon-actuated gripper that lifts hand-sized objects up to 6 kg, and I develop the test procedures that check each mechanism against competition requirements. We're debuting as UW–Madison's first competitive marine robotics team at RoboSub 2027.
 
-# My koi pond:
+**Wisconsin Aerospace (SAE Aero UW), Design Engineer**
+I own the design, optimization, and manufacture of the aircraft's structural members. I validate designs with compressive load-frame testing and in-flight strain gage data, then use the results to guide each iteration.
+
+**Previously: Mechanical Engineering Intern at AprilAire (Summer 2026)**
+I diagnosed the root cause of zone damper motor failures, leading to a design change projected to recover $100K+ per year. I also resolved a barometric damper defect and built an Arduino and Python data acquisition tool for root-cause testing.
+
+## What interests me
+
+- Design and propulsion of rockets and aircraft
+- Robots built for tasks humans can't easily do, such as space travel and underwater exploration
+
+## Skills
+
+**Engineering:** CAD, PTC Windchill, FMEA, strain gaging, rapid prototyping, 3D printing, Arduino, soldering
+**Languages:** Python, C++, Java, JavaScript, Lua, Bash, Git
+
+## Get in touch
+
+- Portfolio: [dalmizyed.github.io](https://dalmizyed.github.io)
+- LinkedIn: [linkedin.com/in/kodyalmizyed](https://www.linkedin.com/in/kodyalmizyed)
+- Email: kodyalmizyed@outlook.com
+
+## My koi pond:
 My koi is fed when I am more active on my github. I don't often do a lot of programming projects though, so he may be a bit hungry. ;)
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
